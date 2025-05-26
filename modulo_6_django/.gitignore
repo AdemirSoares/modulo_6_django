@@ -1,0 +1,22 @@
+# Ambientes virtuais
+env/
+venv/
+
+# Cache Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Banco de dados SQLite (dev)
+*.sqlite3
+
+# Arquivos de migração antigos (opcional)
+# blog/migrations/0*.py
+
+# IDEs/editors
+.vscode/
+.idea/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
